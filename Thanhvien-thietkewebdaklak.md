@@ -1,18 +1,31 @@
-Thông tin công ty
+Thành viên và Đối tác Công ty
 
 Thành viên
 
 Danh sách thành viên
 
-Hoạt động công ty
+Hoạt động Công ty
 
-Xem chi tiết về hoạt động công ty
+Sự kiện nội bộ: Các buổi họp mặt, đào tạo, hội thảo nội bộ.
 
-Đối tác công ty
+Dự án tiêu biểu: Các dự án đã hoàn thành và đang triển khai.
 
-Xem danh sách đối tác
+Tin tức công ty: Cập nhật mới nhất về hoạt động kinh doanh.
 
-Yêu cầu làm đại lý
+Đối tác Công ty
 
-Xem yêu cầu làm đại lý
+Hợp tác công nghệ: Các đối tác trong lĩnh vực phát triển web, phần mềm.
+
+Hợp tác kinh doanh: Đối tác chiến lược trong lĩnh vực thương mại và dịch vụ.
+
+Đối tác truyền thông: Các công ty truyền thông, marketing hợp tác quảng bá thương hiệu.
+
+Yêu cầu Làm Đại Lý
+
+Nếu bạn quan tâm đến việc trở thành đại lý của chúng tôi, vui lòng tham khảo thông tin và đăng ký qua đường link sau:
+Đăng ký đại lý
+
+Liên hệ
+
+Nếu có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng tôi qua website chính thức.
 
